@@ -1,2 +1,2 @@
 # StartupCA_Web
-Startup_CA Launch Pad for startup Complete web package
+Startup_CA for opensource contribution
